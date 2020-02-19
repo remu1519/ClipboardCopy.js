@@ -18,7 +18,3 @@
 new ClipBoardCopyJS('.btn');
 </script>
 ```
-
-## License
-
-[MIT License](https://zenorocha.mit-license.org/) © remu1519
